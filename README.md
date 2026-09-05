@@ -2,7 +2,7 @@
  cat > README.md <<'EOF'
 # JaneOSINT
 
-A Bash-based OSINT search tool designed to run in Termux.
+A Bash-based OSINT tool designed to scan IPS and domains.
 
 ## Requirements
 
