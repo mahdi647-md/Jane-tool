@@ -1,4 +1,4 @@
-# Jane-tool
+# Jane-osint 
  cat > README.md <<'EOF'
 # JaneOSINT
 
